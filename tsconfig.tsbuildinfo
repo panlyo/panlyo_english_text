@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/SavedDocuments.tsx","./src/components/StatsPanel.tsx","./src/components/TransformBar.tsx","./src/components/WordFrequencyPanel.tsx","./src/lib/supabase.ts","./src/lib/textAnalysis.ts","./src/lib/textTransform.ts"],"version":"5.9.3"}
